@@ -6,7 +6,6 @@
 <div>
     Welcome to my kingdom!
     ${name}
-    ${password}
 </div>
 </body>
 </html>
