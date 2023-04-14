@@ -4,5 +4,6 @@
 </head>
 <body>
     Please log in.
+    ${name}
 </body>
 </html>
